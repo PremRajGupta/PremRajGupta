@@ -14,15 +14,12 @@ I am Tester(Penetration & Software)
 <a href="https://www.github.com/PremRajGupta" target="_blank" rel="noreferrer">
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://img.shields.io/github/followers/PremRajGupta?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" 
-       style="height:40px;" />
+  <img  src="https://img.shields.io/github/followers/PremRajGupta?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" 
+       style="height:40px; width:160px;" />
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PremRajGupta.PremRajGupta&" 
-       style="height:40px;" />
+       style="height:40px; width:160px;" />
 </div>
-
-
-
 
 
 

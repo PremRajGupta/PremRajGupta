@@ -8,16 +8,25 @@ I am Tester(Penetration & Software)
 * 🖥️  See my portfolio at [Portfolio](https://premrajgupta.github.io/portfolioprem/index.html)
 * 🖥️  See my Website at [learncodeprem.com](https://learncodeprem.blogspot.com/)
 * ✉️  You can contact me at [tester@gmail.com](mailto:guptapremraj3@gmail.com)
-* 🚀  I'm currently working on [Supabooking](supabooking.com), [ColorHub.app](http://colorhub.app) and [ProfileMe.dev](http://profileme.dev)
 * 🧠  I'm learning Software Testing (Automation & Manual)
 
 
-<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/PremRajGupta?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/PremRajGupta" target="_blank" rel="noreferrer">
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://img.shields.io/github/followers/PremRajGupta?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" 
+       style="height:40px;" />
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PremRajGupta.PremRajGupta&" 
+       style="height:40px;" />
+</div>
+
+
+
+
+
 
 ### Skills
-
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -67,7 +76,11 @@ src="https://img.shields.io/github/followers/PremRajGupta?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PremRajGupta"><img src="https://github-readme-stats.vercel.app/api?username=PremRajGupta&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PremRajGupta's GitHub stats" /></a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PremRajGupta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PremRajGupta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 
 ### Support Me
 
